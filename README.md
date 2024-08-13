@@ -1,2 +1,2 @@
-# Ola-Mundo
- Respositório Teste - Curso em video
+# Olá, Mundo
+Primeiro Respositório Git/Github do Curso em video
